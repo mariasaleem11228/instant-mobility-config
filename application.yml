@@ -1,0 +1,7 @@
+## application.yml (shared across all services)
+spring:
+  profiles:
+    active: default
+logging:
+  level:
+    root: INFO
